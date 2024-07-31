@@ -1,5 +1,5 @@
 {% set name = "itunespy" %}
-{% set version = "1.6.0" %}
+{% set version = "1.6.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/itunespy-{{ version }}.tar.gz
-  sha256: 6da10d63e8a095f717230bfd9bc874798723fe2c91fefb60890d1b271acccd45
+  sha256: 528748baef17769b8d3c61badf0c031ac217c6387c481e825919641a557203a3
 
 build:
   number: 0
