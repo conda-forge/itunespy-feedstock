@@ -7,7 +7,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/itunespy-{{ version }}.tar.gz
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/itunespy-{{ version }}.tar.gz
   sha256: 528748baef17769b8d3c61badf0c031ac217c6387c481e825919641a557203a3
 
 build:
